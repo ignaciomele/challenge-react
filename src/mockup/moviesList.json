@@ -1,0 +1,66 @@
+{
+    "authors": [
+        {
+            "id": "bde4cb1e-547d-4a61-b526-f2314518c777",
+            "name": "Alfred Hitchcock"
+        },
+        {
+            "id": "86a8f062-6a63-456b-91b9-362c45d24b3e",
+            "name": "Federico Fellini"
+        },
+        {
+            "id": "88977af6-5f74-4cbe-9fc6-94c99e9eba21",
+            "name": "Steven Spielberg"
+        },
+        {
+            "id": "88977af6-5f74-4cbe-9fc6-94c99e9eba22",
+            "name": "Robert Zemeckis"
+        },
+        {
+            "id": "86a8f062-6a63-456b-91b9-362c45d24b3f",
+            "name": "Morten Tyldum"
+        },
+        {
+            "id": "bde4cb1e-547d-4a61-b526-f2314518c598",
+            "name": "Tom Shadyac"
+        }
+    ],
+    "films": [
+        {
+            "id": "8363179c-8d29-4748-a4ed-11397fa61f8e",
+            "name": "Psycho",
+            "rate": 8.5,
+            "author": "bde4cb1e-547d-4a61-b526-f2314518c777"
+        },
+        {
+            "id": "7f0892b6-54c4-4858-86da-a2e16087ad90",
+            "name": "Orchestra Rehearsal",
+            "rate": 7.1,
+            "author": "86a8f062-6a63-456b-91b9-362c45d24b3e"
+        },
+        {
+            "id": "cb1648a8-d648-4820-a9f4-0665c073eeab",
+            "name": "Jurasic Park",
+            "rate": 8.2,
+            "author": "88977af6-5f74-4cbe-9fc6-94c99e9eba21"
+        },
+        {
+            "id": "8363179c-8d29-4748-a4ed-21397fa61f8e",
+            "name": "Forrest Gump",
+            "rate": 8.8,
+            "author": "88977af6-5f74-4cbe-9fc6-94c99e9eba22"
+        },
+        {
+            "id": "7f0892b6-54c4-4858-86da-a2e96087ad90",
+            "name": "The Imitation Game",
+            "rate": 8.1,
+            "author": "86a8f062-6a63-456b-91b9-362c45d24b3f"
+        },
+        {
+            "id": "cb1648a8-d648-4820-a9f4-0365c073eeab",
+            "name": "Patch Adams",
+            "rate": 6.8,
+            "author": "bde4cb1e-547d-4a61-b526-f2314518c598"
+        }
+    ]
+}
